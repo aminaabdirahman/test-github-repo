@@ -12,3 +12,5 @@ i have 1 cat called dotty and i live in london.
 :skull_and_crossbones:
 :heart_eyes_cat:
 :smile_cat:
+:grinning:
+:smile:
